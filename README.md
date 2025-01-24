@@ -11,7 +11,7 @@ I'm Harshitha<div align="right">
 
 ### About Me 🤓
 
-- 🎓 Recent graduate with a passion for DevOps and Cloud.
+- 🎓 Masters in Computer Science graduate with a passion for DevOps and Cloud.
 - 🏆 Certified as AWS Solution Architect Associate (AWS-SAA) & Terraform Associate - 003
  [credly-badge](https://www.credly.com/users/harshithak15)
 - 🔍 Constantly exploring tools to enhance software delivery in the fast-paced DevOps world. 
